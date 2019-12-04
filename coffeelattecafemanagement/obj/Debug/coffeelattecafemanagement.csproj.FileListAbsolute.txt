@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\bin\Debug\coffeelattecafemanagement.exe.config
+c:\users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\bin\Debug\coffeelattecafemanagement.exe
+c:\users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\bin\Debug\coffeelattecafemanagement.pdb
+c:\users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\obj\Debug\coffeelattecafemanagement.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\obj\Debug\coffeelattecafemanagement.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\obj\Debug\coffeelattecafemanagement.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\obj\Debug\coffeelattecafemanagement.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\obj\Debug\coffeelattecafemanagement.exe
+c:\users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\obj\Debug\coffeelattecafemanagement.pdb
+C:\Users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\bin\Debug\coffeelattecafemanagement.exe.manifest
+C:\Users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\bin\Debug\coffeelattecafemanagement.application
+C:\Users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\obj\Debug\coffeelattecafemanagement.exe.manifest
+C:\Users\user\documents\visual studio 2012\Projects\coffeelattecafemanagement\coffeelattecafemanagement\obj\Debug\coffeelattecafemanagement.application
